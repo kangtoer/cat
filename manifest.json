@@ -1,0 +1,22 @@
+{
+  "name": "NUSANTARA CAT & CBT PRO — Asesmen Digital BSNP & BSKAP",
+  "short_name": "Nusantara CBT",
+  "description": "Platform Asesmen Digital Terstandar BSNP & BSKAP Kurikulum Merdeka Fase D. Dibuat oleh Catur Pamungkas (toer.my.id) — Catatan Guru IPS.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#059669",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/059669/ffffff?text=CBT",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://placehold.co/512x512/0f172a/10b981?text=NUSANTARA",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
