@@ -893,7 +893,7 @@
         label: 'Latihan Wayground PSAS IPS Kelas VII — Semester Ganjil (HOTS)'
       },
       ips8: {
-        url: 'https://wayground.com/join?gc=55927155',
+        url: 'https://wayground.com',
         code: 'MANDIRI',
         label: 'Latihan Wayground PSAS IPS Kelas VIII — Semester Ganjil (HOTS)'
       },
